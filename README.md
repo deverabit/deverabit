@@ -21,7 +21,7 @@
 
 <br>
 
-### 💻 My Core Skills:
+### 💻 My Core Skill:
 
 |   Frontend Skills           |Backend Skills                  |
 |----------------|-------------------------------|
