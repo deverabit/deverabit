@@ -1,7 +1,5 @@
 
-
 <h1 align="center">LUXUEREAL</h1>
-
 
 <h3 align="center">Experienced Full-stack  <b>WEB</b>  |  <b>MOBI</b>  |  <b>DESKTOP</b>  Application Developer</h3>
 
