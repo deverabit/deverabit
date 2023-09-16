@@ -1,5 +1,5 @@
 
-<h1 align="center">LUXUEREAL</h1>
+<h1 align="center">LUXUEREA</h1>
 
 <h3 align="center">Experienced Full-stack  <b>WEB</b>  |  <b>MOBILE</b>  |  <b>DESKTOP</b>  Application Developer</h3>
 
