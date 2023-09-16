@@ -35,23 +35,19 @@
 |----------------|-------------------------------|---------------|
 |[![My Skills](https://skillicons.dev/icons?i=flutter,react,java,kotlin,swift&theme=light&perline=5)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=electron,tauri,qt&theme=light&perline=3)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,netlify,vercel,heroku,nginx&theme=light&perline=8)](https://skillicons.dev)|
 
+<br>
 
-----
+
+### My GitHub Stats:
 
 <div align="center">
-  <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=luxuereal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luxuereal&locale=en&hide_title=false&layout=compact&card_width=232&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=luxuereal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luxuereal&locale=en&hide_title=false&layout=compact&card_width=232&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
-----
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
