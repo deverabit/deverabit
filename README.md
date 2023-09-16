@@ -5,7 +5,7 @@
 
 <br>
 
-### 👨 About Me
+### 👨 About 
 
 >&nbsp;&nbsp;From full stack web development to cross-platform desktop applications, I will deliver an application from start to finish, or bring your existing website/application up to date. I deliver on time, and to spec with communication being key. You ask, "why should I choose you for my project?" 
 >
@@ -21,7 +21,9 @@
 
 <br>
 
+
 ### 💻 My Skills:
+
 
 |   Frontend Skills           |Backend Skills                  |
 |----------------|-------------------------------|
@@ -37,7 +39,7 @@
 ----
 
 <div align="center">
-  <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+  <h2 align="center" style="margin: 5px 10px;">Github stats</h2> 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=luxuereal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luxuereal&locale=en&hide_title=false&layout=compact&card_width=232&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
