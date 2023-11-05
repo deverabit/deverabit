@@ -1,13 +1,13 @@
 
 <h1 align="center">LUXUEREAL</h1>
 
-<h3 align="center">Experienced Full-stack  <b>WEB</b>  |  <b>MOBILE</b>  |  <b>DESKTOP</b>  Application Developer</h3>
+<h3 align="center">Experienced <b>MOBILE</b>  |  <b>DESKTOP</b>  Application Developer</h3>
 
 <br>
 
 ### 👨 About
 
->&nbsp;&nbsp;From full stack web development to cross-platform desktop applications, I will deliver an application from start to finish, or bring your existing website/application up to date. I deliver on time, and to spec with communication being key. You ask, "why should I choose you for my project?" 
+>&nbsp;&nbsp;From full stack web development to cross-platform desktop applications, I will deliver an application from start to finish, or bring your existing application up to date. I deliver on time, and to spec with communication being key. You ask, "why should I choose you for my project?" 
 >
 >&nbsp;&nbsp;✅ I work with clients with the intention on having you want to work with me in the future. 
 >
@@ -24,12 +24,6 @@
 
 ### 💻 My Core Skills:
 
-
-|   Frontend Skills           |Backend Skills                  |
-|----------------|-------------------------------|
-|[![My Skills](https://skillicons.dev/icons?i=react,next,gatsby,vue,nuxt,svelte,typescript,redux,jquery,graphql,webpack,tailwind,bootstrap,materialui,sass,threejs&theme=light&perline=8)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,django,flask,laravel,dotnet,go,aws,azure,sequelize,mysql,mongo,postgresql,firebase,supabase&theme=light&perline=8)](https://skillicons.dev)          |
-
-<br>
 
 |   Mobile App Skills            |Desktop App Skills| Dev Tools |
 |----------------|-------------------------------|---------------|
