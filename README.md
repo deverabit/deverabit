@@ -1,7 +1,7 @@
 
 <h1 align="center">DEVERABIT</h1>
 
-<h3 align="center">Experienced <b>MOBILE</b>  |  <b>DESKTOP</b>  Application Developer</h3>
+<h3 align="center">Talented <b>MOBILE</b>  |  <b>DESKTOP</b>  Application Developer</h3>
 
 <br>
 
@@ -24,10 +24,19 @@
 
 ### 💻 My Core Skills:
 
+<br>
 
-|   Mobile App Skills            |Desktop App Skills| Dev Tools |
-|----------------|-------------------------------|---------------|
-|[![My Skills](https://skillicons.dev/icons?i=flutter,react,java,kotlin,swift&theme=light&perline=5)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=electron,tauri,qt&theme=light&perline=3)](https://skillicons.dev)|[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,visualstudio,netlify,vercel,heroku,nginx&theme=light&perline=8)](https://skillicons.dev)|
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,,,,,,dart,flutter,react,java,kotlin,swift,,,,,,&theme=light&perline=20" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,,,,,androidstudio,unity,electron,tauri,qt,gcp,firebase,supabase,,,,,&theme=light&perline=20" />
+  </a>
+</p>
 
 <br>
 
